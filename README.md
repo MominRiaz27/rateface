@@ -1,6 +1,6 @@
 Rateface is an Animation based rating project
 > Project Title
-# Rate Fac
+# Rate Face
 # Project Description
 > RateFace is an animation based rating application developed in React, using html, css and javascript.
 # Technologies
